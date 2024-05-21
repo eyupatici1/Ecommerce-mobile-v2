@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">v1</string>
+
+    <string name="first_slide">Bölgeye göndermek istediğiniz malzemeleri seçin</string>
+    <string name="second_slide">Hızlı bir şekilde ulaştıralım</string>
+    <string name="third_slide">Desteğinizin güvende olduğundan emin olabilirsiniz</string>
+
+    <string name="description1">Deprem sonrası gerekli malzemeleri düzenli olarak güncelliyoruz</string>
+    <string name="description2">Yardımınızın nerede olduğunu kontrol edebilirsiniz</string>
+    <string name="description3">Yardımınız adrese ulaştıktan sonra da kontrol edebilirsiniz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
